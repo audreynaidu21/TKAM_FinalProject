@@ -1,0 +1,22 @@
+{
+  "name": "tkamfinalproject",
+  "version": "1.0.0",
+  "description": "myenglishproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audreynaidu21/TKAM_FinalProject.git"
+  },
+  "keywords": [
+    "tkam"
+  ],
+  "author": "audreynaidu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/audreynaidu21/TKAM_FinalProject/issues"
+  },
+  "homepage": "https://github.com/audreynaidu21/TKAM_FinalProject#readme"
+}
